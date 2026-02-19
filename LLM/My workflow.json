@@ -19,7 +19,7 @@
       "webhookId": "37869743-4432-4658-82a8-a0092ca4d279",
       "credentials": {
         "telegramApi": {
-          "id": "8ZroVlOywEWNZi0d",
+          "id": "",
           "name": "Telegram account 2"
         }
       }
@@ -43,7 +43,7 @@
       "webhookId": "968bb829-f553-4a49-b72f-7ebec08ae71a",
       "credentials": {
         "telegramApi": {
-          "id": "8ZroVlOywEWNZi0d",
+          "id": "",
           "name": "Telegram account 2"
         }
       }
@@ -83,7 +83,7 @@
       "name": "OpenAI Chat Model",
       "credentials": {
         "openAiApi": {
-          "id": "jWUMiJwI3ZTeONmF",
+          "id": "",
           "name": "n8n free OpenAI API credits"
         }
       }
