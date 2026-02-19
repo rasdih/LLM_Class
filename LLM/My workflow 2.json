@@ -83,7 +83,7 @@
       "webhookId": "c907960e-6223-483f-8189-f8fb64d2747b",
       "credentials": {
         "gmailOAuth2": {
-          "id": "dSE5qv7CeJwUlIde",
+          "id": "",
           "name": "Gmail account"
         }
       }
@@ -130,7 +130,7 @@
       "webhookId": "19f57c4f-2db4-4dd6-9117-540968513225",
       "credentials": {
         "gmailOAuth2": {
-          "id": "dSE5qv7CeJwUlIde",
+          "id": "",
           "name": "Gmail account"
         }
       }
